@@ -1,0 +1,28 @@
+size(800,800)
+noStroke()
+
+black=true
+
+size = 100
+
+for y in range(0,height / size)
+    for x in range(0, width / size)
+        if black: 
+            fill(0)
+        else:
+            fill(255)
+        if black:
+            black = False
+        else
+            black = True
+        
+        
+        rect(0, 0, size, size)
+    
+        translate(size,0)
+    translate(-width, size)
+    if black:
+        black = False
+    else
+        black = True
+    
