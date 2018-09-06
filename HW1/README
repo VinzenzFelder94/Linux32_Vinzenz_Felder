@@ -4,14 +4,14 @@ Make sure you updated the debian system and you have the turtel grapic package
 
 with 
 
-bone$ sudo apt-get install python3-tk 
+host$ sudo apt-get install python3-tk 
 
 you should get everything for the programm
 
 to execut pls go to the directory where you can find the file and execute it with:
 
-bone$ chmod +x EtchaSketch.py
-bone$ ./EtchaSketch.py
+host$ chmod +x EtchaSketch.py
+host$ ./EtchaSketch.py
 
 
 thank you , and have fun
