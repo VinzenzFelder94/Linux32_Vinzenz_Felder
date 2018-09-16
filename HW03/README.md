@@ -1,4 +1,4 @@
-The main files for HW03 are temp.sh, i2c_temp.py, Display_Etch.py, Display_Etch_button.py
+# The main files for HW03 are temp.sh, i2c_temp.py, Display_Etch.py, Display_Etch_button.py
 
 # temp.sh is a shell program that reads out the values of two TMP101 sensors connected to the i2c bus in Fahrenheit.
 
@@ -8,12 +8,12 @@ The main files for HW03 are temp.sh, i2c_temp.py, Display_Etch.py, Display_Etch_
 
 # Display_Etch_button.py connects the previously made in hw02 etch a sketch with buttons to output to the led matrix. The pins are now diffrent than bevor. Pinning is printed below.
   
-   button1="P9_23" #Right P9_pins and 2 user buttons used
-   button2="P9_24" #left
-   button3="P9_25" #up
-   button4="P9_26" #down
-   pbutton="P9_21" #quit
-   mbutton="P9_22" #clear screen
+  # button1="P9_23" #Right P9_pins and 2 user buttons used
+  # button2="P9_24" #left
+  # button3="P9_25" #up
+  # button4="P9_26" #down
+  # pbutton="P9_21" #quit
+  # mbutton="P9_22" #clear screen
 
 
 
