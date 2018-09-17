@@ -4,7 +4,7 @@
 
 import turtle
 
-w =int (input('Which with'+ '\n'))
+w =int (input('Which width'+ '\n'))
 
 h =int( input('Which height'+'\n'))
 
