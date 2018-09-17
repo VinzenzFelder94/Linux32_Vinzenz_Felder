@@ -61,3 +61,12 @@ also are some specific gpio measurments through a pdf file acsessable.
 They measurement were done with Marius Schwab because during my measurement i ran out of power for my Laptop. 
 
 the question to homework 2 are answered in the question.txt file
+
+========================
+Professor Yoder's Comments
+
+Looks good.  ReadME looks complete.  Watch spelling in Questions.txt
+The plots are a nice touch.  Make sure you label your axis.
+I moved HW02 to hw02....
+
+Score:9/10
