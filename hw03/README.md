@@ -25,3 +25,9 @@
    P8_33, P8_35 for eQEP1
    P8_41, P8_42 for eQEP2
 
+========================
+Professor Yoder's Comments
+
+Looks good.  The wiring .pjg is a nice touch.
+
+Score:10/10
