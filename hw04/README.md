@@ -2,9 +2,9 @@
 
 #The beaglebone memory map is for the first homework section and is a system memory map of the AM335x showing things such as the addresses and size for EMIF0 SDRAM and the GPIO registers.
 
-#The GPIO_button_mmap.c is a c script the makes use of the mmap function. This script maps to two GPIO registers, GPIO1 and GPIO3. It uses two buttons connected to the GPIO P9_25 and GPIO P9_23 to control two of the internal LEDs on the beagleboard(execute ./GPIO_button.mmap)
+#The GPIO_button_mmap.c is a c script the makes use of the mmap function. This script maps to two GPIO registers, GPIO1 and GPIO3. It uses two buttons connected to the GPIO P9_25 and GPIO P9_23 to control two of the internal LEDs on the beagleboard(execute sudo./GPIO_button.mmap)
 
-#The gpio_toggle.c is a file which toggles an internal LED 
+#The gpio_toggle.c is a file which toggles an internal LED (execute with sudo./gpio_toggle.c)
 
 #in the directory display, you will find all the files for the Display
 
