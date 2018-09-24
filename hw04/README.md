@@ -4,9 +4,7 @@
 
 #The GPIO_button_mmap.c is a c script the makes use of the mmap function. This script maps to two GPIO registers, GPIO1 and GPIO3. It uses two buttons connected to the GPIO P9_25 and GPIO P9_23 to control two of the internal LEDs on the beagleboard(execute ./GPIO_button.mmap)
 
-#The gpio_toggle.c is a file wich toggles on internal LED 
-
-#The gpioThru script was modified to read from a switch connected to GPIO1_25 and use it to control an internal LED.
+#The gpio_toggle.c is a file which toggles an internal LED 
 
 #in the directory display, you will find all the files for the Display
 
