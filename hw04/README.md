@@ -22,7 +22,9 @@
 
 #off.sh can be executed to shut off the LCD.
 
+========================
+Professor Yoder's Comments
 
+Looks good.
 
-
-
+Score:10/10
