@@ -1,0 +1,1 @@
+cmd_/home/debian/Linux32_Vinzenz_Felder/hw05/hello.ko := ld -EL -r  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/debian/Linux32_Vinzenz_Felder/hw05/hello.ko /home/debian/Linux32_Vinzenz_Felder/hw05/hello.o /home/debian/Linux32_Vinzenz_Felder/hw05/hello.mod.o ;  true
