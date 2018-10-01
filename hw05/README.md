@@ -4,14 +4,14 @@
 #a.out got cross-compiled from the host,(task2)
 
 #the 3 directories are for LKM all of them are part from the Kernel tutorial from derek molloy
-
+#setup.sh is needed to execute, to load the correct kernel module.
 #in hello you will find a hello.c file after executing the Makefile, you can execute the Kernel model
 #use sudo insmod hello.ko
 #besides open the kernel log. it is quit nice option to watch what is going on with the kernel
 
 #enter: bone$ sudo bash
-#	bone$ cd /var/log/
-#	bone$ tail -f kern.log
+#bone$ cd /var/log/
+#bone$ tail -f kern.log
 
 #in the terminal you should see the Kernel log, really helpfull for the following tasks.
 
