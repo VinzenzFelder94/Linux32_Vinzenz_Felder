@@ -20,3 +20,13 @@
 #ebbchar is a LKM to communicate with the Kernel . it is part of the second tutorial from Derek Molloy
 
 #I enterd my name for Project idea
+
+
+========================
+Professor Yoder's Comments
+
+Looks good.  
+
+I don't see where you compiled a new kernel and got it installed.
+
+Score:  8/10
