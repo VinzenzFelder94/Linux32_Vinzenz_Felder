@@ -12,3 +12,10 @@
 
 #i edit a page for the Project - Camper automation in eLinux
 
+========================
+Professor Yoder's Comments
+
+Score:  10/10
+
+Nice screen shots and photos.
+Need project Executive Summary.
