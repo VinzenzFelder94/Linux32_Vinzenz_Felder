@@ -7,3 +7,9 @@
 #you can also find the Kernel version in the terminal. i install the 4.18.9-bone9-rt version. 
 
 
+========================
+Professor Yoder's Comments
+
+Is your .png file for running with a load?  I don't see the no load plot.
+
+Score:  8/10
