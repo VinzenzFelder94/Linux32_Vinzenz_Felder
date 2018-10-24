@@ -28,3 +28,12 @@ $start
 # Additional all Measurement are in the PDF [`measurement_table.pdf`]
 
 
+========================
+Professor Yoder's Comments
+
+The .pdf file has lots of good plots.
+I think what you are calling 'jitter' is what I call 'ringing'.  Jitter is
+the slight changing in timing that makes the waveform move left and right.
+Ringing is what make the waveform overshoot and the settle down.
+
+Score:  10/10
