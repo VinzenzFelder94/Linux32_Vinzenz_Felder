@@ -1,6 +1,6 @@
 # hw10
 
-# Project Timeline: Look up the milestone exel file
+# Project Timeline: Look up the milestone exel file or the pdf
 #We created a milestone plan for the Project
 
 
