@@ -11,3 +11,10 @@
 #the Sheets Link:(https://docs.google.com/spreadsheets/d/14nLjBKH-Iz85-XmpNLeJxnWdhvs3BP-wZQaJsGsyGUc/edit#gid=0)
 
 
+========================
+Professor Yoder's Comments
+
+Looks logged.  
+Milestones look good, but the dates seem out of order.
+
+Score:  10/10
